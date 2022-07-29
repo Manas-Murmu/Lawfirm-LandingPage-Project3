@@ -4,11 +4,11 @@
 
 ### ✒️ A Landing Page of a Law Firm "Your Justice is our Top Priority" ⚖️
 
-![Badge](https://img.shields.io/badge/Manas--Ranjan--Murmu-Project3-blue) ![Badge](https://img.shields.io/badge/LCO-Full%20Stack%20Javascript%20Bootcamp-orange) ![](https://img.shields.io/badge/HTML-CSS-green)
+![Badge](https://img.shields.io/badge/Manas--Ranjan--Murmu-Project--3-blue) ![Badge](https://img.shields.io/badge/LCO-Full%20Stack%20Javascript%20Bootcamp-orange) ![](https://img.shields.io/badge/HTML-CSS-green)
 
-#### Built Using HTML & CSS (Desktop view Only)
+#### Built Using HTML & CSS (Desktop view Only 💻)
 
-#### Time Taken to finish the Project - 2 hours (approx)
+#### Time Taken to finish the Project - 2 hours ⌛ (approx)
 
 ---
 
@@ -20,7 +20,7 @@
 
 ---
 
-## Live Link [Demo]()
+## Live Demo [Demo](https://manas-ranjan-murmu-project3.netlify.app/)
 
 ### Screenshot
 

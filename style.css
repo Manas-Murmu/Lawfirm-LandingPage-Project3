@@ -1,0 +1,94 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Orbitron:wght@800&family=Oswald:wght@200;500&family=Poppins:ital,wght@0,400;0,700;0,800;1,600&family=Sansita+Swashed&display=swap");
+* {
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+body {
+  background-color: #2b211b;
+  color: white;
+}
+.container {
+  margin: 2% 5%;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.list {
+  list-style-type: none;
+  display: flex;
+  gap: 50px;
+  margin-left: 200px;
+}
+.list-item {
+  font-family: "Montserrat", sans-serif;
+  opacity: 0.6;
+}
+.list-item-active {
+  list-style-type: none;
+  color: #eeb417;
+  border: 1px solid #eeb417;
+  border-radius: 10px;
+  padding: 10px 20px;
+}
+.navbar .list .list-item:first-child {
+  font-weight: 900;
+  opacity: 1;
+}
+.hero {
+  display: grid;
+  grid-template-columns: 600px 1fr;
+  height: 250px;
+}
+.hero-heading {
+  font-size: 70px;
+  font-weight: 900;
+}
+.paragraph-heading {
+  margin-top: 50px;
+  font-size: 15px;
+  padding: 50px;
+  opacity: 0.8;
+}
+.image-section {
+  height: 500px;
+}
+.image-section img {
+  position: absolute;
+  min-width: 100%;
+  left: 0;
+  right: 0;
+  margin-top: 10px;
+  overflow: hidden;
+}
+.coverimage {
+  height: 500px;
+  width: 100%;
+  display: block;
+  object-position: center;
+}
+.Icons {
+  position: absolute;
+  display: flex;
+  height: 100px;
+  right: 0;
+  align-items: center;
+  gap: 30px;
+  margin-right: 20px;
+  cursor: pointer;
+}
+.icon1 {
+  border: 1px solid #eeb417;
+  padding: 10px 15px;
+  border-radius: 50%;
+  background-color: #504640;
+  color: #eeb417;
+}
+.icon2 {
+  border: 1px solid #eeb417;
+  padding: 10px 15px;
+  border-radius: 50%;
+  background-color: #a08f36;
+  color: white;
+}
